@@ -123,6 +123,18 @@ footer .social-icons span:hover {
     margin-bottom: 40px;
 }
 
+.modal-dialog-centered {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-body img {
+    width: 100% !important;
+    height: auto;
+    border-radius: 0;
+}
+
 .card {
     border: solid black;
     box-shadow: gray;
@@ -155,4 +167,5 @@ footer .social-icons span:hover {
     width: 50px;
     height: 50px;
 }
+
 
